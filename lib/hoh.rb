@@ -40,7 +40,9 @@ def naming_system
         }
       }
     },
-    :Order=>{}
+    the_order={
+      :label=> "Order"
+    }
   }
    
 end
