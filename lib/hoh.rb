@@ -32,7 +32,11 @@
 
 def naming_system
   bio_class= {
-    :label=> "Kingdom"
+    :label=> "Kingdom",
+    :sub_category=>{
+      :label=> "Genus"
+    },
+    
   }
 end
  # Remember:
