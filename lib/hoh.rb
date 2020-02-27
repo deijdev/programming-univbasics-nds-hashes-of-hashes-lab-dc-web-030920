@@ -31,7 +31,7 @@
 # }
 
 def naming_system
-  bio_class= {
+  {bio_class= {
     :label=> "Kingdom",
     :sub_category=>{
       :label=> "Phylum",
