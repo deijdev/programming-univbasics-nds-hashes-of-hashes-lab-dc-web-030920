@@ -42,16 +42,13 @@ def naming_system
    },
       :label=> "Order"
    ,
-    the_family=
-    {
       :label=> "Family",
       :sub_category=>{
         :label=> "Genus"
-      }
-    },
-    the_species= {
+      },
       :label=> "Species",
-      :sub_category=> nil
+      :sub_category=>{ 
+      :label=> nil
     }
   }
 end
