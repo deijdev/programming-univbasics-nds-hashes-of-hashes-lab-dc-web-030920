@@ -39,8 +39,6 @@ def naming_system
         :label=> "Class"
         }
       }
-    },
-    the_order={
       :label=> "Order"
     },
     the_family=
