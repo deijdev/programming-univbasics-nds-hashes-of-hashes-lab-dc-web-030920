@@ -37,9 +37,14 @@ def naming_system
         :Class=>{}
       }
     },
-    
+    :Order=> {},
+    :Family=> {
+      :Genus=>{}
+    },
+    :Species=>{
+      nil
+    }
   }
-  
   
 
 end
