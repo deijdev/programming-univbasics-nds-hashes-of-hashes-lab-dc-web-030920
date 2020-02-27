@@ -42,7 +42,6 @@ def naming_system
       :Genus=>{}
     },
     :Species=>{
-      nil
     }
   }
 end
