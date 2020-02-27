@@ -45,8 +45,6 @@ def naming_system
       nil
     }
   }
-  
-
 end
  # Remember:
   #  Kingdom
