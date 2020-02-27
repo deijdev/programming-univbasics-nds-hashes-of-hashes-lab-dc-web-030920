@@ -32,8 +32,14 @@
 
 def naming_system
   bio_class= {
+    :Kingdom=>{
+      :Phylum=>{
+        :Class=>{}
+      }
+    },
     
   }
+  
   
 
 end
