@@ -32,7 +32,7 @@
 
 def naming_system
   bio_class= {
-    
+    :label=> "Kingdom"
   }
 end
  # Remember:
